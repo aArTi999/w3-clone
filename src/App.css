@@ -1,0 +1,4 @@
+.scrollbar {
+  background-color: lightgreen;
+  scrollbar-color: red green !important;
+}
